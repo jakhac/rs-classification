@@ -8,6 +8,7 @@ __pycache__/
 
 ds/
 **.hdf5
+checkpoints/
 
 # Distribution / packaging
 .Python
