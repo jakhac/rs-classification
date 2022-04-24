@@ -36,3 +36,9 @@ baseline v3 model
         Acc:  0.5340501792114696
         Prec:  0.5438670690103827
         F1:  0.513753722803421
+
+
+tl v1 model
+- efficient net b0
+- batch=16
+- adjustable lr callback with patience=2
