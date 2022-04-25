@@ -29,16 +29,24 @@ baseline v3 model
         Prec:  0.30829333245525525
         F1:  0.310698438266335     -->
 - v3.1
-    - even bigger DNN arch
-    - adjustable lr callback with patience=3
-    - batch=16
-     - performance:
-        Acc:  0.5340501792114696
-        Prec:  0.5438670690103827
-        F1:  0.513753722803421
+- even bigger DNN arch
+<!-- - adjustable lr callback with patience=3 -->
+- batch=16
+- performance:
+    Acc:  0.5340501792114696
+    Prec:  0.5438670690103827
+    F1:  0.513753722803421
 
 
 tl v1 model
 - efficient net b0
 - batch=16
 - adjustable lr callback with patience=2
+- performance:
+    Acc:  0.7706093189964157
+    Prec:  0.8031684363196874
+    F1:  0.7637736415980427
+
+tl v1 finetuning model
+- unfreeze all layers
+- lr 0.00001
