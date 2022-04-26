@@ -39,3 +39,8 @@ tl v1 model
     Acc:  0.7706093189964157
     Prec:  0.8031684363196874
     F1:  0.7637736415980427
+
+
+TODO
+- sort class distribution
+- explain choice of efficient net
