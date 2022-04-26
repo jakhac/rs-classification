@@ -1,4 +1,4 @@
-baseline v1 model
+<!-- baseline v1 model
 - batch=32
 - standard DNN arch
 - performance:
@@ -38,7 +38,7 @@ tl v1 model
 - performance:
     Acc:  0.7706093189964157
     Prec:  0.8031684363196874
-    F1:  0.7637736415980427
+    F1:  0.7637736415980427 -->
 
 
 TODO
