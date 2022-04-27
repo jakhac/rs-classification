@@ -42,7 +42,7 @@ rs-classification
 pip install -r requirements.txt
 ```
 
-4. Now you can execute the notebooks. By default, the best model for each notebook is loaded such that results are reproduceable (in this case you can skip the execution training..). However, if you can also train the model again. In this case, you have to uncomment one line as explained in the notebooks to evaluate your trained model, instead of loading stored model.
+4. Now you can execute the notebooks. By default, the best model for each notebook is loaded such that results are reproduceable (in this case you can skip the execution training..). However, you can also train a model again. In this case, you have to uncomment one line as explained in the notebooks to evaluate your newly trained model, instead of loading the stored model.
 
 
 
