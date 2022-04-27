@@ -34,6 +34,7 @@ rs-classification
     └───baseline_v1
     └───baseline_v2
     └───transfer
+└───venv (if installed)
 ```
 
 3. Install the required packages. A requirements.txt containing all used imports file is provided.
