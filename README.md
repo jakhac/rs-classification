@@ -4,7 +4,7 @@
 
 As part of a 4-day coding challenge, the goal was to explore an imbalanced dataset containing remote sensing data and build several models to predict labels, for instance agriculture, beach or forest.
 
-This repository contains the notebooks and final paper which summarizes the approach, models and findings.
+This repository contains the notebooks and [final paper](paper_summary.pdf) which summarizes the approach, models and findings. The baseline notebooks contain CNN models trained from scratch achieving 20% respectively 47% accuracy. The transfer learning notebook retrains the final layer of EfficientNet model and labels 83% of images correctly.
 
 ## How to execute the code
 
